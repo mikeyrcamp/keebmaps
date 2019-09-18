@@ -10,6 +10,7 @@ https://github.com/wfscheper/qmk_firmware/tree/master/layouts/community/ergodox/
 
 ## MacOS
 
+* https://configure.ergodox-ez.com/ergodox-ez/layouts/bv9zA/latest/1
 * https://configure.ergodox-ez.com/ergodox-ez/layouts/eavnK/latest/0
 * https://configure.ergodox-ez.com/ergodox-ez/layouts/aN565/latest/0
 
