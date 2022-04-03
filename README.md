@@ -13,6 +13,7 @@ https://github.com/wfscheper/qmk_firmware/tree/master/layouts/community/ergodox/
 
 ## MacOS
 
+- https://configure.zsa.io/ergodox-ez/layouts/VW7bJ/latest/0
 - https://configure.zsa.io/ergodox-ez/layouts/DnYnq/latest/0
 - https://configure.ergodox-ez.com/ergodox-ez/layouts/Pp60Z/latest/0
 - https://configure.ergodox-ez.com/ergodox-ez/layouts/bv9zA/latest/1
